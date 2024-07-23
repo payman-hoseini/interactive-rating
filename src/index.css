@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Overpass";
+  font-weight: 400;
+  src: url(./assets/fonts/Overpass-Regular.ttf);
+}
+@font-face {
+  font-family: "Overpass";
+  font-weight: 700;
+  src: url(./assets/fonts/Overpass-SemiBold.ttf);
+}
